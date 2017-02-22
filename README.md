@@ -51,6 +51,12 @@ To run the server execute:
 python3 manage.py runserver 0.0.0.0:8000
 ```
 
+## Docker 
+Build the image with the command
+```
+docker build my-python-app .
+``` 
+
 # Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/tgndevs/superlists/issues and https://github.com/tgndevs/superlists/pulls. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
